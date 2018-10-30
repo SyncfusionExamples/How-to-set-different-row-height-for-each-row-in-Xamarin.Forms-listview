@@ -1,6 +1,6 @@
-# How to set different row height for each row in listview?
+# How to set different row height for each row in Xamarin.Forms listview?
 
-This example demonstrates how to set different row height for each row in the listview.
+This example demonstrates how to set different row height for each row in Xamarin.Forms listview.
 
 ## Requirements to run the demo
 
