@@ -4,7 +4,6 @@ using System.Linq;
 
 using Foundation;
 using Syncfusion.ListView.XForms.iOS;
-using Syncfusion.SfRangeSlider.XForms.iOS;
 using UIKit;
 
 namespace SfListViewSample.iOS
@@ -27,7 +26,6 @@ namespace SfListViewSample.iOS
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
             SfListViewRenderer.Init();
-            new SfRangeSliderRenderer();
 
             return base.FinishedLaunching(app, options);
         }
